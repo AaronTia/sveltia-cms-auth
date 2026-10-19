@@ -3,6 +3,6 @@ main = "src/index.js"
 compatibility_date = "2023-03-24"
 # ...
 [vars]
-ALLOWED_DOMAINS = "golden10-site.pages.dev, *.golden10-site.pages.dev, golden10academy.com"
+ALLOWED_DOMAINS = "golden10academy.com, golden10academy.pages.dev, *.golden10academy.pages.dev"
 GITHUB_CLIENT_ID = "Ov23liZKtM9sQNnyiYiB"
 # ...
